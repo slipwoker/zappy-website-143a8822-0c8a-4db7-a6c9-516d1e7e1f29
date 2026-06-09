@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://adjoa-s-cuisine-143a8822.zappy5.app
+https://example.com
 Craving restaurants open on Thanksgiving with soulful flavor? ADJOA&#39;s Cuisine in Ho, Bentota serves Jollof Rice, Banku &amp; more with 24-hour delivery. Order authentic West African comfort now!
 
 ### About
-https://adjoa-s-cuisine-143a8822.zappy5.app/about
+https://example.com/about
 Discover the story behind ADJOA&#39;s Cuisine—where West African home cooking meets michelin star restaurants passion. From Jollof to Fried Yam, we bring Bentota bold, round-the-clock flavor. Join our table!
 
 ### Delivery & Dining
-https://adjoa-s-cuisine-143a8822.zappy5.app/delivery-dining
+https://example.com/delivery-dining
 Experience delivery &amp; dining that rivals a cn tower restaurant view. ADJOA&#39;s Cuisine brings 24/7 West African dishes—Tilapia, Banku &amp; more—to your doorstep in Bentota. Savor convenience now!
 
 ### Contact
-https://adjoa-s-cuisine-143a8822.zappy5.app/contact
+https://example.com/contact
 Ready for a great wall chinese restaurant-level feast with an African twist? Contact ADJOA&#39;s Cuisine in Ho for 24-hour delivery, catering, or reservations. Let&#39;s make your next meal unforgettable!
 
 ### Products
-https://adjoa-s-cuisine-143a8822.zappy5.app/products
+https://example.com/products
 Our Products - ADJOA’s  Cuisine
 
 ### Cart
-https://adjoa-s-cuisine-143a8822.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://adjoa-s-cuisine-143a8822.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://adjoa-s-cuisine-143a8822.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://adjoa-s-cuisine-143a8822.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://adjoa-s-cuisine-143a8822.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://adjoa-s-cuisine-143a8822.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - ADJOA’s  Cuisine
 
 ### Category
-https://adjoa-s-cuisine-143a8822.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - ADJOA’s  Cuisine
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://adjoa-s-cuisine-143a8822.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://adjoa-s-cuisine-143a8822.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://adjoa-s-cuisine-143a8822.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Restaurant
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://adjoa-s-cuisine-143a8822.zappy5.app/sitemap.xml
-- Robots: https://adjoa-s-cuisine-143a8822.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://adjoa-s-cuisine-143a8822.zappy5.app/llms-full.txt
-- Products (JSON): https://adjoa-s-cuisine-143a8822.zappy5.app/products.json
-- Products (Google Merchant RSS): https://adjoa-s-cuisine-143a8822.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://adjoa-s-cuisine-143a8822.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
